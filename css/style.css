@@ -12,7 +12,7 @@
 body {
   background: #ffffff;
   color: #898989;
-  font-family: 'futura';
+  font-family: 'helvetica';
   font-size: 15px;
   font-weight: 300;
   line-height: 20px;
@@ -198,7 +198,7 @@ nav {
 nav ul li {
   float: left;
   margin-right: 15px;
-  font-family: 'futura';
+  font-family: 'helvetica';
   font-size: 14px;
   margin-left: 40px;
 }
@@ -308,7 +308,7 @@ nav ul li a {
 }
 
 #about .about-descr .p-heading {
-  font-family: 'futura';
+  font-family: 'helvetica';
   font-size: 28px;
   text-align: left;
 }
@@ -411,7 +411,7 @@ nav ul li a {
   color: #999999;
   line-height: 16px;
   cursor: pointer;
-  font-family: 'futura';
+  font-family: 'helvetica';
   font-weight: 500;
   letter-spacing: 0.02em;
   text-transform: capitalize;

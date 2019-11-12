@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Nicolás Forteza.", "a Data Scientist."],
+      strings: ["Nicolás Forteza.", "a Data Scientist.", "an Economist."],
       typeSpeed: 100,
       loop: true,
     });
