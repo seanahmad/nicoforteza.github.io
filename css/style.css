@@ -1,4 +1,5 @@
-
+@import url("fontawesome-all.min.css");
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
 /*
   Theme Name: Folio
   Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
@@ -12,9 +13,9 @@
 body {
   background: #ffffff;
   color: #898989;
-  font-family: 'helvetica';
+  font-family: "Karla", sans-serif;
   font-size: 15px;
-  font-weight: 300;
+  font-weight: 100;
   line-height: 20px;
   letter-spacing: 0.02em;
   overflow-x: hidden;
@@ -308,13 +309,15 @@ nav ul li a {
 }
 
 #about .about-descr .p-heading {
-  font-family: 'helvetica';
+  font-family: 'Karla';
   font-size: 28px;
   text-align: left;
 }
 
 #about .about-descr .separator {
   max-width: 80%;
+  font-family: 'Karla';
+  font-size: 20px;
   margin-bottom: 0;
   text-align: left;
 }
